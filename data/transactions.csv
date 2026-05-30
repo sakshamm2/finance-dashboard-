@@ -1,0 +1,11 @@
+Date,Category,Type,Amount,PaymentMode
+2026-01-01,Salary,Income,50000,Bank
+2026-01-03,Food,Expense,500,UPI
+2026-01-04,Shopping,Expense,1200,Card
+2026-01-05,Transport,Expense,200,Cash
+2026-01-10,Rent,Expense,15000,Bank
+2026-01-12,Food,Expense,300,UPI
+2026-01-15,Freelance,Income,10000,Bank
+2026-01-18,Entertainment,Expense,800,UPI
+2026-01-20,Food,Expense,450,Card
+2026-01-25,Shopping,Expense,1500,Card
