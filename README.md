@@ -1,39 +1,104 @@
 # 💰 Personal Finance Analytics Dashboard
 
-A modern **data analytics web application** built using Python and Streamlit that helps users analyze their personal financial transactions and gain insights into income, expenses, savings, and spending behavior.
+A modern finance analytics dashboard built with **Python**, **Streamlit**, and **Pandas** to help users track expenses, analyze spending patterns, monitor savings, and gain actionable financial insights through interactive visualizations.
+
+## 🚀 Live Demo
+
+🌐 Live App: https://z9alw9zbnu6mlltqukh2tp.streamlit.app/
 
 ---
 
-## 📊 Live Features
+## 📊 Features
 
-- 📈 Income vs Expense analysis
-- 🧾 Category-wise spending breakdown
-- 📅 Monthly spending trends
-- 🎛️ Interactive filters (Category & Type)
-- 🧠 Automated financial insights engine
-- 📊 Visual dashboards (bar, line, pie charts)
+* 📈 Income vs Expense Analysis
+* 🧾 Category-wise Spending Breakdown
+* 📅 Monthly Spending Trends
+* 🎛️ Interactive Filters (Category & Transaction Type)
+* 🧠 Automated Financial Insights
+* 📊 Interactive Visualizations (Bar, Line & Pie Charts)
+* 💡 Easy-to-use Dashboard Interface
 
 ---
 
 ## 🧰 Tech Stack
 
-- Python 🐍  
-- Streamlit 🚀  
-- Pandas 📊  
-- Matplotlib 📉  
+| Technology    | Purpose                    |
+| ------------- | -------------------------- |
+| Python 🐍     | Core Programming Language  |
+| Streamlit 🚀  | Dashboard Development      |
+| Pandas 📊     | Data Processing & Analysis |
+| Matplotlib 📉 | Data Visualization         |
 
 ---
 
 ## 📁 Project Structure
 
+```text
+finance-dashboard/
+│
+├── analysis/
+├── data/
+│   └── transactions.csv
+├── sql/
+│   └── queries.sql
+├── visuals/
+├── ml_model.py
+├── app.py
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
 ---
 
-## 🚀 How to Run This Project
+## ⚙️ Installation
 
-### 1️⃣ Install dependencies
+Clone the repository:
+
 ```bash
-pip install streamlit pandas matplotlib
+git clone https://github.com/sakshamm2/finance-dashboard-.git
+cd finance-dashboard-
+```
 
-## Live Demo
+Install dependencies:
 
-🚀 Live App: https://z9alw9zbnu6mlltqukh2tp.streamlit.app/
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📸 Dashboard Preview
+
+*Add screenshots of your dashboard here.*
+
+Example:
+
+```md
+![Dashboard Home](screenshots/dashboard-home.png)
+```
+
+---
+
+## 🎯 Key Insights Generated
+
+* Spending distribution across categories
+* Monthly expense trends
+* Income vs expense comparison
+* Savings analysis
+* Financial behavior tracking
+
+---
+
+## 👨‍💻 Author
+
+Saksham Yadav
+
+If you found this project useful, feel free to ⭐ the repository.
