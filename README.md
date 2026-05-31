@@ -4,7 +4,7 @@ A modern finance analytics dashboard built with **Python**, **Streamlit**, and *
 
 ## 🚀 Live Demo
 
-🌐 Live App: https://z9alw9zbnu6mlltqukh2tp.streamlit.app/
+🌐 Live App: https://finance-dashboard-saksham.streamlit.app/
 
 ---
 
@@ -31,23 +31,30 @@ A modern finance analytics dashboard built with **Python**, **Streamlit**, and *
 
 ---
 
+
 ## 📁 Project Structure
 
 ```text
 finance-dashboard/
 │
+├── .devcontainer/
+├── Screenshots/
+│   ├── dashboard.png
+│   ├── categorywise_spending.png
+│   └── filters_sidebar.png
+│
 ├── analysis/
 ├── data/
-│   └── transactions.csv
 ├── sql/
-│   └── queries.sql
 ├── visuals/
-├── ml_model.py
+│
 ├── app.py
 ├── main.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
 ```
 
 ---
