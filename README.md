@@ -82,15 +82,20 @@ streamlit run app.py
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-*Add screenshots of your dashboard here.*
+### Main Dashboard
 
-Example:
+![Dashboard](Screenshots/dashboard.png)
 
-```md
-![Dashboard Home](screenshots/dashboard-home.png)
-```
+### Category-wise Spending Analysis
+
+![Category Spending](Screenshots/categorywise_spending.png)
+
+### Interactive Filters
+
+![Filters Sidebar](Screenshots/filters_sidebar.png)
 
 ---
 
