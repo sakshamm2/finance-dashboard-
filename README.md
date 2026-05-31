@@ -33,3 +33,7 @@ A modern **data analytics web application** built using Python and Streamlit tha
 ### 1️⃣ Install dependencies
 ```bash
 pip install streamlit pandas matplotlib
+
+## Live Demo
+
+🚀 Live App: https://z9alw9zbnu6mlltqukh2tp.streamlit.app/
